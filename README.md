@@ -2,7 +2,7 @@
 
 面向植物病害分类、可解释性与反事实干预研究的可复用 Codex 技能。
 
-技能入口：`skills/lesion-causal-research/SKILL.md`。将该目录复制到自己的 Codex skills 目录后，可用 `$lesion-causal-research` 调用。
+技能入口：`lesion-causal-research/SKILL.md`。将该目录复制到自己的 Codex skills 目录后，可用 `$lesion-causal-research` 调用。
 
 示例：
 - “帮我设计baseline与改进模型的病斑依赖对照实验。”
@@ -11,3 +11,4 @@
 - “根据本周实验记录生成组会汇报提纲，标出尚缺证据。”
 
 本仓库只发布技能与整理后的方法参考，不发布原论文PDF、原始图像或完整个人研究记录。未找到单独的作业评分细则；如另有作业说明，应进一步核对交付格式和必需项目。
+
